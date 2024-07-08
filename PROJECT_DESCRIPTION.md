@@ -1,4 +1,4 @@
-# CryptoHire Smart Contract function
+# Azienda Smart Contract function
  
 
  ## Table of Content
